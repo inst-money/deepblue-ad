@@ -1,0 +1,130 @@
+{
+    "code": 200,
+    "message": "Successfully",
+    "data": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Website"
+            },
+            {
+                "id": 2,
+                "name": "APP"
+            },
+            {
+                "id": 3,
+                "name": "WeChat"
+            }
+        ],
+        "cases": [
+            {
+                "id": 54,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/K0jj4ToOv1ZUTIVSuZHfyk3qnd6LXvQidp6vfJPZ.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/QWXia5LkQuV2ztTwVekJKj6oIhUVXsVUUxOsVOmW.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/UC6Xa23xzDiyVgpj47u43nKWHO3PgKIYPfMnnqqv.png",
+                "type": 0,
+                "link": null,
+                "name": "1x1 Games",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/JrJTtUA9BjKN5UgmD6oDglCRjgEoNDKsXXgrhhaZ.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/kKnCKYK2cgbW3fpCeYf4VxFASqPHy8kzijqNrruS.png\" style=\"height:870px; width:1528px\" /></p>"
+            },
+            {
+                "id": 56,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/9UBHTvMaZ7irTPqynxXJs28QlohaP7fdmI9Bd66K.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/JBAflWPgDbEfrZzrjBadpLxIfj4F6yu0itm9lW5o.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/Ccgt48KCfFvoTWjd2Z0lyRZ2DwsTHqlmF20BTlt2.png",
+                "type": 0,
+                "link": null,
+                "name": "SECTOR & MORELLATO SMARTWATCHES",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/KZM4j3r1hKEfTziKjhEIsdeLGUPWkvc1XsAcePkw.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/VqV6ViaoDE5tPk8xdN0zhoybLhktNjfLkQbN4awG.png\" style=\"height:870px; width:1528px\" /></p>"
+            },
+            {
+                "id": 53,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/XfdJXkJyJTyMcR4E5q1sRBi1xSPA6G1xy4lLbKMo.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/JmVNdw4N26OZuJigj2X2PhqgzRCzPtE6ajABRcYt.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/JGsyKllvuXTvQ7wv7CdzBvvAQuaEOP1YazTJLDAZ.png",
+                "type": 0,
+                "link": null,
+                "name": "HCL",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/7soboSPqhkPqYWooskFmWrqQIGgJuGQE5kjAGT9D.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/F3ebXxlJRCxGyIoYZ6Dqtnkdoeo0JTzZKfhCBXXk.png\" style=\"height:870px; width:1528px\" /></p>"
+            },
+            {
+                "id": 36,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/PSJtkvsEkU6f8z2Oa633ALaNEatinthghl294Oib.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/HTSfTmD7bu06hfuqoH1bjOwMjGy4xVlHnlThlbf9.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/jjN1ggnzKowiYZLBXUjjgN9aVpDZ4d5WRdgiyMYA.png",
+                "type": 2,
+                "link": null,
+                "name": "Minibox APP",
+                "description": null,
+                "content": "<p>Minibox APP<br />\r\nA mini warehouse APP. This APP allows users to easily use minibox to place orders, check prices, make reservations for delivery, take photos to record warehouse objects and order records. Users can pay and check the due date through the APP. The delivery personnel can also know all the daily delivery orders and contact information through the APP.</p>\r\n\r\n<p>System functions:</p>\r\n\r\n<ul>\r\n\t<li>User registration and login</li>\r\n\t<li>Users place orders and make reservations for delivery</li>\r\n\t<li>User photographed object</li>\r\n\t<li>online payment</li>\r\n\t<li>The administrator can clearly see the detailed data of each order</li>\r\n\t<li>The delivery person receives the delivery order and contact information</li>\r\n\t<li>The system reminds customers about the expiration of their orders every day</li>\r\n\t<li>Set each different charge</li>\r\n</ul>",
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/X9MsnGacGEi8Ao7fQu3n7UPEgf2UyG8ZAf7BNNjm.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/kTjjExYSTfWSLKFr1FAdXA4UKMHmvjVNp1yzWuWp.png\" style=\"height:870px; width:1528px\" /></p>"
+            },
+            {
+                "id": 55,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/6k5pRiSVhGzmBmOe5ZgKjhiMPh0UXIsmV7Nqb7iO.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/tFmfIs6fQbAvk9vwo4IF0dskx3X5W55TeqviLWj7.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/CcpPCDFWFyZZAZHj5yZSraq2GfOCjJDlIRmAsZ3s.png",
+                "type": 0,
+                "link": null,
+                "name": "QC Streamline",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/bzJgTC7VfyhITvm65qprn5M4kbCfIM2E9CSwe2sB.png\" style=\"height:2048px; width:2732px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/FsYKSy4rPxFw3S6hJiVLMSGY52cTsyL70z2MmOqs.png\" style=\"height:2048px; width:2732px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/yYQoOOaseQcayKONIhnn55l25OiVC5Bx7kD68pX5.png\" style=\"height:2048px; width:2732px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/9RMR5In5SMVPXHc71OPOxONfCXfRg0GpNOk3NsF7.png\" style=\"height:2048px; width:2732px\" /></p>"
+            },
+            {
+                "id": 34,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/IrCrdmuQAoTFqoE82McHDH6HiXLho2QYUpTH5hla.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/DjP6HkwmWRTqRTNmKsPPzHHcpjVLPOLbX4UclcFb.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/XA2t7oOYLqIdKYe8Xr7xq3UupYgsWWa95k2owPbM.png",
+                "type": 2,
+                "link": null,
+                "name": "A+club",
+                "description": null,
+                "content": "<p>A+ Club APP<br />\r\nA tutoring agency APP. This APP allows middle and primary school students to participate in various courses provided by the A+ Club tutoring agency. For primary school students, the daily homework book data is specially designed to be uploaded, and the tutor monitors whether the primary school students complete all the homework in the homework book every day. If students have homework questions, they can also ask questions in the APP in real time, and the tutor will answer them in real time.</p>\r\n\r\n<p>System functions:</p>\r\n\r\n<ul>\r\n\t<li>User registration and login</li>\r\n\t<li>Set a free trial period</li>\r\n\t<li>divided into middle school and primary school students</li>\r\n\t<li>Elementary school students have the function of uploading homeworkbooks daily</li>\r\n\t<li>Q&amp;A feature &ndash; ask homework online</li>\r\n\t<li>Supplementary practice distribution for different subjects</li>\r\n\t<li>Purchase membership and renewal services</li>\r\n</ul>",
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/fwRMvFHHBu9Crhq9j5DoLZiD19AOKEIPhDGzmIo9.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/w498FySnzrf5iT4EtaCQTaTJel617IxThqk9T9Ny.png\" style=\"height:870px; width:1528px\" /></p>"
+            },
+            {
+                "id": 35,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/Hjbzi9gnLQwyJ3rrs7nCqJ2d1gxUUZLYv54CPslo.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/82qLSHr7g1LFMS1NJGsvWkRAP93vrbrSnmupVswD.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/tB8eCgnOCQAoWKqOVkQReAYXBaFmOXWTkWV24T2f.png",
+                "type": 2,
+                "link": null,
+                "name": "Company APP",
+                "description": null,
+                "content": "<p>Enterprise internal APP</p>\r\n\r\n<p>A customer-made internal ordering system and employee APP. The billing system allows customers to manage their quotations, customer confirmations, invoices, accounts receivable and other important data more efficiently. The employee APP allows employees to complete all internal company operations in the APP. Functions include punching in, requesting leave, reimbursement, company announcement, employee address book, all approval results and employee outgoing work orders, etc.</p>\r\n\r\n<p>System functions:</p>\r\n\r\n<ul>\r\n\t<li>Open quotations, keep quotations of different versions</li>\r\n\t<li>Open Invoice and save quotations confirmed by customers</li>\r\n\t<li>Generate accounts receivable and payable</li>\r\n\t<li>Employee clocks in and calculates wages every month</li>\r\n\t<li>Apply for leave and see your remaining annual leave and approval status</li>\r\n\t<li>Reimbursement request, see approval status</li>\r\n\t<li>Company Notice</li>\r\n\t<li>Company Address Book</li>\r\n\t<li>Out-of-office work order &ndash; shows the details of the out-of-office work required</li>\r\n</ul>",
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/iNVnPCuj5REgCxGBxElWzrLceK35mnySgnFKraTH.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/ocRmnTrohkRCpBD8vOiMZmcSkRu80FAaPDQdH4VD.png\" style=\"height:870px; width:1528px\" /></p>"
+            },
+            {
+                "id": 42,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/RqZyVgXCRxwgBqlC6gonexaB9FQ4LLdQ1u3A1C6R.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/92SftzwC8ZEK7cNWP1C1XqRuRQ2a1FlZYhGMClxa.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/XRNoTBh3ZqH7aYmtLCOGy6Q2gfziNiyUFadtKqGo.png",
+                "type": 2,
+                "link": null,
+                "name": "Whats28",
+                "description": null,
+                "content": "<p>Whats28 Traditional Chinese Medicine Clinic APP</p>\r\n\r\n<p>A custom-made TCM outpatient APP. This APP can be added to TCM outpatient clinics that have become members. The APP will display all the TCM clinics that have joined. Users can search for the nearest clinic in the APP and register.</p>\r\n\r\n<p>System functions:</p>\r\n\r\n<ul>\r\n\t<li>Set up TCM clinic</li>\r\n\t<li>Enter event notifications</li>\r\n\t<li>Registration notice</li>\r\n\t<li>Schedule a visit</li>\r\n</ul>",
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/lz0THdFJTgvBBQ0rUd1RVUM3mRU0vdoYUaFiy5sK.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/oQ3qvoe5xtBFcdcY49rqPY1U1pPJdSJjSM3ahEja.png\" style=\"height:870px; width:1528px\" /></p>"
+            },
+            {
+                "id": 43,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/XvQmLrUmQ6QZM6yZSSanCF6fOeaAR5vby69WbbyS.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/3ty7hhg0O9sEnxiG2wT0IGdGrzRFDgpLCq5e401g.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/kZUMKKhH3iAMmLhPxoJNIYa2u8OG25fX9OmOG2Wc.png",
+                "type": 2,
+                "link": null,
+                "name": "HomeFix",
+                "description": null,
+                "content": "<p>HomeFix Repair APP</p>\r\n\r\n<p>A customized maintenance APP. This APP has a user version and a master version. The user selects the desired service through the user APP to place an order. When placing an order, he can take a photo or video to make the master more aware of the problem. After the platform receives the order, it can be transferred to the relevant master. The master confirms the price and time with the customer and can come to repair. After completion, take photos or video records. After the customer confirms the completion, they can pay directly in the APP and make a master evaluation.</p>\r\n\r\n<p>System functions:</p>\r\n\r\n<p>- User registration and login</p>\r\n\r\n<p>- Set up available services</p>\r\n\r\n<p>- Master registration and login</p>\r\n\r\n<p>- Admin Approval Master</p>\r\n\r\n<p>- User places an order</p>\r\n\r\n<p>- The master takes orders</p>\r\n\r\n<p>- Payment after completion and user evaluation of the master</p>",
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/fQKU1YcYSo0zpEzBs3s64k2Hg4ptk7ZVlTW5obni.png\" style=\"height:870px; width:1528px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/LFQKkwTFEQqniqlAE7Wh4gm365STSIDxTamyjZ4n.png\" style=\"height:870px; width:1528px\" /></p>"
+            }
+        ]
+    }
+}

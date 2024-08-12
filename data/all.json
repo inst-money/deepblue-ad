@@ -1,0 +1,130 @@
+{
+    "code": 200,
+    "message": "Successfully",
+    "data": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Website"
+            },
+            {
+                "id": 2,
+                "name": "APP"
+            },
+            {
+                "id": 3,
+                "name": "WeChat"
+            }
+        ],
+        "cases": [
+            {
+                "id": 2,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/Mm6ZH8RpclnyIfhpW1HUSjP5GJApnjHWjrIuhMea.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/HodhrzX9cuPbKxJl9fbYwnaYPgMQwdDLcJJgHqTf.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/9wCm1yhrqEOk5SVQfDMPz5HBVkdz0H4JFqj3ZXdU.png",
+                "type": 1,
+                "link": "https://gametaster.com/",
+                "name": "GameTaster",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/oVXkWp1bWdwJR4OurI0Z27FNlfDai4cRVzNMtq40.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/Lbp6kQ8U4W9GriBCUXhDYuEBkBuvTIM5jZf44WAZ.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/abtQ5Dhp2H4BrKErXNx9XfIBv1tuR2abaIiJZdp3.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/vtwKiKYJDbaSu9GJWXx5r4L062tO3vgEuqPBOguV.png\" style=\"height:931px; width:1920px\" /></p>"
+            },
+            {
+                "id": 60,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/6337d86040a1b338b6b3d47715a477e4.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/33c970b214d1c02326d8f65c68c85065.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/a2fb4cc032f6e95a9753c605cdc631b7.png",
+                "type": 1,
+                "link": "https://www.sterling-chemical.com.hk/",
+                "name": "Sterling Chemicals",
+                "description": "Sterling Chemicals",
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/T6Um7UNZJuUEAOXF9mkHux4dpraOpneVPk7zot9l.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/DmbJ3gPo9dEF7iCDjNIlLWyc01QluiitpbIoO3tK.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/FbtdGHWU9XuTxeMc64qEvR4tSbX8284aHuiR1hq8.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/AxnEmrIeQltul7Jlqfc5n2swVTVW4xpIOqOXde6l.png\" style=\"height:931px; width:1920px\" /></p>"
+            },
+            {
+                "id": 3,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/N8jsTSqHLDvSFwg0hinP0liJSRcOChHtdAMoom8C.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/BqKfAXABooRYE3SbthxjvSSfigekziGmp7GRyyGS.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/PBTvK43qHTMyToDI1zQ2tBENPx0AS9XkTCTiTky2.png",
+                "type": 1,
+                "link": "https://members.creatormart.com/login",
+                "name": "Creatormart",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/NAWWSOqR1yO4wKCrSBP9BSZZKvW5ANf6kx2o66Y4.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/R4q3XkDi7aCxqa8Ladyfi9sEDpRxBGQvFXgOumY7.png\" style=\"height:931px; width:1920px\" /></p>"
+            },
+            {
+                "id": 62,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/c98c191416f771d4dd292be9d9e4e0e6.jpg",
+                "host_image": "https://api.chinaskynet.net/uploads/images/df015463d161ca8ba55d8da10a3d3930.jpg",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/9f1e531125522b2e35bddb0aa9ce3d68.jpg",
+                "type": 1,
+                "link": "https://ir.globavend.com",
+                "name": "Globavend Holdings Limited",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/5xOyjsnOAuaA49qLuhivnvI4fXaUJ81dBFg8ZQdX.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/6XgQyusVCOMT12GFR6JYHQT1dCAi8UdwXXeyHIpJ.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/GOsdzBvY1Iv5kHehJOjc41khLeOJEUq7gPbsiOF2.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/22isKi695KfsPlg8Rl1Q0P1PRTnpQ8AzZIHGKoNl.png\" style=\"height:931px; width:1920px\" /></p>"
+            },
+            {
+                "id": 1,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/t98g6FXorQU326IE14aYFqnGmwj8DuGslK38YtT1.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/YeOhfdJyNPzC7i6dF51R44Rs8wwxUrNmAllhcSmM.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/LQOEcfPXiw4OQlHoVUbj3MuLPBCzz2dLAYDSlz57.png",
+                "type": 1,
+                "link": "https://9gag.com/club9",
+                "name": "Club9",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/0if6R7wfREf3ZIOUTO8kCpOgEJ1aXKgytoL9Wz1g.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/iVsyJPBFtI0k4l88CaNJ8RMYJwD24tG72Idupmz5.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/edlqOxyiN8D2m0CHzF12OLnVAIm0D9n1avsZz70f.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/tiZqTnF1FNgcbZlDD3v6eIf46ukOSGrwcj792k5a.png\" style=\"height:931px; width:1920px\" /></p>"
+            },
+            {
+                "id": 57,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/ysRDYt4Skffu4wuc3UENlsivKuunc2KfJN0S4IgN.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/36wY2SP4ywg4F1Smomid74XqG8aKitaFCPL14aIc.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/jyZojL8ubPVgHRfE9uRHkyzJfRGHSow2SHNRZ0Bj.png",
+                "type": 1,
+                "link": "https://www.1x1games.com/",
+                "name": "1x1 Games",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/IR7rIsbiEImVJenzq4qTiQ510HadaqhYfCjzNZju.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/Biz2TnjG5IvCO4OfS1FmnmhFLA7LDIrKxMQghpFI.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/ZRkPCXl7hq2mAe5m6wb1gxg2wo8pAAEdaSegd3pn.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/4YaS1lxqNmFPOHKXFROouyt7GSexui6aQhYktV4L.png\" style=\"height:931px; width:1920px\" /></p>"
+            },
+            {
+                "id": 5,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/VosaFJdgti6zTMoWD5eAeemVlh1ROUOMCCRDaSxF.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/mtSP4QqaPYkl2SLfOeydyqMhWLWgZ33ke4hBfGdX.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/zCPvQhRKq0waIYEY5ka0Oji4E0LXDLPeTZg4dfEF.png",
+                "type": 1,
+                "link": "https://www.atliview.com/",
+                "name": "ATLI View",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/uUiFaqa9nS2MgD9NycOOJJ0Y9YjjHrqPXiRKNsBr.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/yq8Pm3XneQFlguYPbyLhN0dTeLmYPOHV1gUpOEju.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/YWSAupsx69mFzMxof0w0eWo1ge7Ol65q4OdqcKbV.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/NyByxIIwX57ZOzn0lC3FqeKKZvCJzMqMortsSp77.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/UE8efVG5uLg59jgYY7LfDUV1wCIP3IW50YCcX2B6.png\" style=\"height:931px; width:1920px\" /></p>"
+            },
+            {
+                "id": 63,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/f7c1ac110009995718f5a7d356be2e9e.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/7cef1843941bc6849fb4d770fb9346dc.jpg",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/425b545b07ae76432badcb6bde00b0f9.png",
+                "type": 1,
+                "link": "https://www.marksmancs.com/",
+                "name": "Marksman",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/AyhtzkRScFXqqyBtRsG2ohPQ8ySNQgU9Qp6rR9Ww.png\" style=\"height:2319px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/eCPPe4sFiFHQy30tqjiUj9nSzkTOVE5aP4mfaJPN.png\" style=\"height:1561px; width:1920px\" /></p>"
+            },
+            {
+                "id": 6,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/jDMqQVau0gC3Sky0cGYEL1NsBiG092I70dK98QyA.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/ctey4RnE3tuTjaQD8JkzcXB1Tz1xR13cWT0epu0r.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/cVzj1zoiZ0N7ohmR3VPvUJWldELJBucHdlJDoq5j.png",
+                "type": 1,
+                "link": "https://www.frequentflyer.com.cn/",
+                "name": "FrequentFlyer",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/Q5uBxEPGgzumduyvyQWAf0Ohp49LJWnIfRyqDPLA.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/UMsYatVKB5HjOdz2MXPPiEcU57DJ3Z7Tzc9bZvEH.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/GGDO9FYQ1T2mgMMid8elnVVhWoMJrpcbC842bZqt.png\" style=\"height:931px; width:1920px\" /><img alt=\"\" src=\"https://api.chinaskynet.net/uploads/ckeditor/WECSmRGaplPLkFmUU2sceuPYL7EKU0fPxCGCo2ul.png\" style=\"height:931px; width:1920px\" /></p>"
+            }
+        ]
+    }
+}
