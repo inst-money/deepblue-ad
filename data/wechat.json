@@ -1,0 +1,70 @@
+{
+    "code": 200,
+    "message": "Successfully",
+    "data": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Website"
+            },
+            {
+                "id": 2,
+                "name": "APP"
+            },
+            {
+                "id": 3,
+                "name": "WeChat"
+            }
+        ],
+        "cases": [
+            {
+                "id": 30,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/2Ix0rT2xAqXF7LlV7H7SU4yleXXnVly0LPYQyKpU.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/LRZcuuDqLtQndgRru0TWRSxiQS3seOPLyJ7nQQEN.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/iKpYhvPgZAZw3hzfd4vdJ96iWWPmR7tggtQD4aOL.png",
+                "type": 0,
+                "link": null,
+                "name": "FrequentFlyer",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img src=\"https://api.chinaskynet.net/uploads/images/LRZcuuDqLtQndgRru0TWRSxiQS3seOPLyJ7nQQEN.png\" /></p>"
+            },
+            {
+                "id": 31,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/tOmm3Xh9BKqDB0HbBlUkq4kKaupDPFKV6yKF5b5p.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/UTBUyu0lZBuexrLrv8s6ApbckYmjYzBO5rQpYoqz.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/3ZbFGVFunzo5EqsdQIQLUmzAUcg0V3d3OmGXEoz7.png",
+                "type": 0,
+                "link": null,
+                "name": "muwuBBQ",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img src=\"https://api.chinaskynet.net/uploads/images/UTBUyu0lZBuexrLrv8s6ApbckYmjYzBO5rQpYoqz.png\" /></p>"
+            },
+            {
+                "id": 32,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/zmqTA8FqcaGLj41j4BSr0cOzSxFffL2IltP4SVmJ.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/CrOyQbXhvJ4DpUPzMrd3I5Wgtx5itm6vLSC8dX0j.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/TMHP0ucHm8h6E1FQlcsowwTXrFQmJrEFF0DkpnIO.png",
+                "type": 0,
+                "link": null,
+                "name": "shengkaiyuan",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img src=\"https://api.chinaskynet.net/uploads/images/CrOyQbXhvJ4DpUPzMrd3I5Wgtx5itm6vLSC8dX0j.png\" /></p>"
+            },
+            {
+                "id": 33,
+                "logo_image": "https://api.chinaskynet.net/uploads/images/Lra0gVM0V5tKjZiKbXq8lHcqDlMRxPA6MwxsoMdg.png",
+                "host_image": "https://api.chinaskynet.net/uploads/images/QmsMpli4AEu93zlsaevOSqAHOWvorDLd78AYkydU.png",
+                "vice_image": "https://api.chinaskynet.net/uploads/images/5Ds1hxH5SvoRclAt6EP8jnfKEpl55S840U6fEHR0.png",
+                "type": 0,
+                "link": null,
+                "name": "China Dream",
+                "description": null,
+                "content": null,
+                "ckeditor": "<p><img src=\"https://api.chinaskynet.net/uploads/images/QmsMpli4AEu93zlsaevOSqAHOWvorDLd78AYkydU.png\" /></p>"
+            }
+        ]
+    }
+}

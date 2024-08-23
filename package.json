@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "start": "pm2 start ecosystem.config.cjs",
+    "stop": "pm2 stop ecosystem.config.cjs",
+    "ls": "pm2 ls",
+    "delete": "pm2 delete ecosystem.config.cjs",
+    "logs": "pm2 logs ecosystem.config.cjs",
+    "restart": "pm2 restart ecosystem.config.cjs"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^8.3.3",
+    "aos": "^2.3.4",
+    "nuxt": "^3.12.4",
+    "nuxt-aos": "^1.2.5",
+    "nuxt-swiper": "^1.2.2",
+    "vue": "3.4.36",
+    "vue-i18n": "^9.13.1"
+  },
+  "devDependencies": {
+    "@element-plus/nuxt": "^1.0.9",
+    "@types/aos": "^3.0.7",
+    "element-plus": "^2.7.8",
+    "sass-embedded": "^1.77.8"
+  }
+}
